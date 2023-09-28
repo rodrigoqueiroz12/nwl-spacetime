@@ -1,7 +1,7 @@
 # NWL Spacetime Cápsula do Tempo
 Website criado como caso de estudos da NWL Spacetime trilha Explorer da Rocketseat.
 
-Você pode visitar o projeto em 
+Você pode visitar o projeto (clicando aqui)[https://rodrigoqueiroz12.github.io/nwl-spacetime/] 
 
 ![Texto Alternativo](./.github/preview.png)
 
