@@ -1,6 +1,6 @@
-# Ignite Timer Rocketseat
+# NWL Spacetime Cápsula do Tempo
 
-Website criado como caso de estudos do Ignite da Rocketseat usando HTML5 e CSS3.
+Website criado como caso de estudos da NWL Spacetime trilha Explorer da Rocketseat usando HTML5 e CSS3.
 
 Você pode visitar o projeto em 
 
@@ -9,7 +9,7 @@ Você pode visitar o projeto em
 ## Instalação
 
 1. Clone o repositório: `git clone https://github.com/rodrigoqueiroz12/nwl-spacetime.git`
-2. Navegue até o diretório do projeto: `cd .\ignite-timer\`
+2. Navegue até o diretório do projeto: `cd .\nwl-spacetime\`
 3. Instale e execute a extensão Live Server.
 
 ## Propósito
