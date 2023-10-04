@@ -14,7 +14,7 @@ Você pode visitar o projeto [clicando aqui](https://rodrigoqueiroz12.github.io/
 Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma timeline.
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido duranta a NWL da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante a NWL da Rocketseat com as seguintes tecnologias:
 
 - HTML5
 - CSS3
